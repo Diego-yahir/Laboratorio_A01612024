@@ -10,6 +10,11 @@ int resta(int a, int b){
  return a-b;
 }
 
+float ANDREA(int a, int b){
+ return a*b;
+}
+
+
  
 int main(){
     int ERIK = 0
