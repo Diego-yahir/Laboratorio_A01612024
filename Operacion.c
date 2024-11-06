@@ -12,7 +12,7 @@ int resta(int a, int b){
 
  
 int main(){
-    int ERIK = 0
+    int ERASDASDIK = 0
     int num1 = 12;
     int num2 = 3;
     int op1 = suma(num1,num2);
